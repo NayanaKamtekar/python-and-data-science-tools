@@ -88,4 +88,6 @@ def number_guess_game():
             guess = int(input("Not quite right, guess again: "))
 
 
-number_guess_game()
+#number_guess_game()
+
+#For excercise 6 please run above commented function call.
